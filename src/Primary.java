@@ -13,6 +13,7 @@ public class Primary {
         System.out.println(s.lastIndexOf('b'));
         System.out.println(s.compareTo("Austin"));
         System.out.println("Austin".compareTo(s));
+        System.out.println("Hub City".compareTo("Hub"));
 
     }
 }
